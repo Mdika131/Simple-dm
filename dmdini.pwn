@@ -5,7 +5,6 @@
 #include <float>
 #include <Pawn.CMD>
 #include <streamer>
-#include <compat> 
 #include <sscanf2>
 #include <dini>
 

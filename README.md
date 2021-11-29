@@ -5,4 +5,15 @@ Just A Simple Deathmatch Gamemode
 - Have lot of bug
 - Uncompleted
 
+# Plugin Needed
+- Streamer
+- PawnCMD
+- Sscanf
+
+# Include Needed
+- Streamer
+- PawnCMD
+- Dini
+- Sscanf
+
 # Sorry if the gamemode very bad 😅

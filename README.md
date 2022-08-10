@@ -4,6 +4,7 @@ Just A Simple Deathmatch Gamemode
 # Notes
 - Have lot of bug
 - Uncompleted
+- Discontinued
 
 # Plugin Needed
 - Streamer

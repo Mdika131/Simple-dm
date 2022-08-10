@@ -94,8 +94,8 @@ new file[256];
 //Dialog Enum
 enum
 {
-	DIALOG_REGISTER, //Gw ndak iso buat register
-	DIALOG_LOGIN, //Gw ndak iso buat login
+	DIALOG_REGISTER,
+	DIALOG_LOGIN, 
 	DIALOG_UNUSED,
 	DIALOG_WEAPON,
     DIALOG_PISTOL,
@@ -103,7 +103,7 @@ enum
     DIALOG_HEAVY,
     DIALOG_ETC,
     DIALOG_SSPAWN,
-	DIALOG_TEAM //Pake logika lu ndiri nap gw ndak iso mikir anj (klo gaperlu apus aja)
+	DIALOG_TEAM 
 }
 
 //Player Enum
